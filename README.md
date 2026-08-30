@@ -17,8 +17,10 @@ sbt run
 
 MIT License
 
-
 ## Live Demo
-- **GitHub Pages:** [https://raphasha27.github.io/scala-akka-actors](https://raphasha27.github.io/scala-akka-actors)
-- **Docker Hub:** [docker pull raphasha27/scala-akka-actors](https://hub.docker.com/r/raphasha27/scala-akka-actors)
+
+| Platform | URL |
+|----------|-----|
+| GitHub Pages | [https://raphasha27.github.io/scala-akka-actors](https://raphasha27.github.io/scala-akka-actors) |
+| Docker Hub | [docker pull raphasha27/scala-akka-actors](https://hub.docker.com/r/raphasha27/scala-akka-actors) |
 
